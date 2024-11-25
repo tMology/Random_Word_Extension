@@ -1,0 +1,7 @@
+In order to install extension to Edge we will want to navigate to extensions on the browser.
+
+After, we will want to turn on Developer mode. Finally, we will want to load it from "Load unpacked". 
+
+As this extension is not packed.
+
+Please note, this really can be applied to any web browser of your choice.

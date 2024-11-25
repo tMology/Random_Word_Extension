@@ -1,0 +1,11 @@
+{
+    "name" : "Random Words",
+    "version" : "1.0.0",
+    "description" : "This will generate random Words.",
+    "manifest_version" : 3,
+    "author" : "Mology",
+    "action" : {
+        "default_popup" : "index.html",
+        "defualt_title" : "Random word"
+    }
+}
