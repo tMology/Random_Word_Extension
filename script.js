@@ -1,3 +1,4 @@
+
 function getWord() {
     fetch ("https://random-word-api.herokuapp.com/word")
     .then(res=>res.json()) // So we will then need to pass the response in the Json format
